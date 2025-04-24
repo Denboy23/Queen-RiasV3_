@@ -1,6 +1,6 @@
-<h1 align="center">QUEEN RIAS V3</h1>
+<h1 align="center">𝐷𝐸ℕ𝐵𝙊𝑌☆</h1>
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029Vao1R2n9sBIC9sPhvI1P"><img src="https://files.catbox.moe/68moyh.jpeg" alt="QUEEN RIAS V3" border="0"></a>
+  <a href="https://whatsapp.com/channel/0029Vao1R2n9sBIC9sPhvI1P"><img src="https://files.catbox.moe/68moyh.jpeg" alt="𝐷𝐸ℕ𝐵𝙊𝑌☆ V3" border="0"></a>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 ---
 
 ## 📝 **Introduction**
-**QUEEN RIAS V3** is a multi-device WhatsApp bot designed to enhance your WhatsApp experience with a wide range of features. Whether you're looking for entertainment, utility, or automation, QUEEN RIAS V3 has got you covered. Created by **Toxxic Boy**, this bot is packed with powerful functionalities and is easy to deploy.
+**𝐷𝐸ℕ𝐵𝙊𝑌☆** is a multi-device WhatsApp bot designed to enhance your WhatsApp experience with a wide range of features. Whether you're looking for entertainment, utility, or automation, QUEEN RIAS V3 has got you covered. Created by **𝐷𝐵𝑌☆**, this bot is packed with powerful functionalities and is easy to deploy.
 
 ---
 
