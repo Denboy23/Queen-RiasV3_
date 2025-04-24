@@ -1,15 +1,21 @@
+
 FROM node:lts-buster
 
-WORKDIR /app
+RUN apt-get update && \
+  apt-get install -y \
+  ffmpeg \
+  imagemagick \
+  webp && \
+  apt-get upgrade -y && \
+  rm -rf /var/lib/apt/lists/*
 
-RUN git clone https://github.com/Toxic1239/Queen-RiasV3_ .
+COPY package.json .
 
-COPY package.json ./
+RUN npm install && npm install qrcode-terminal
 
-RUN yarn install
 
 COPY . .
 
 EXPOSE 3000
 
-CMD ["npm", "start"]
+CMD ["node", "index.js", "--server"]
